@@ -3,7 +3,6 @@ import pickle
 import requests
 import pandas as pd
 import gzip
-import surprise
 from recommendation_functions import get_top_movies, get_movies_by_genre, improved_recommend_movies, recommend_movies,hybrid
 
 # Load data and models

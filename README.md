@@ -5,6 +5,6 @@ Movie Recommendation System Web-app
 ![image](https://github.com/user-attachments/assets/c530d95e-1b68-473b-a35d-0f7a17016aaa)
 ![image](https://github.com/user-attachments/assets/3d62d0c5-2d5b-4ab3-ae35-27dfd1de6ece)
 ![image](https://github.com/user-attachments/assets/c092e7ad-69e2-4ce5-9ff9-3edf2c9ef45e)
-![image](https://github.com/user-attachments/assets/bd5077ae-b80d-4f04-97ed-f70c70b7fd42)
+
 
 
